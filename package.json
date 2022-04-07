@@ -10,5 +10,8 @@
     "range-quest"
   ],
   "author": "Praveen Dias",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "winston": "^3.7.2"
+  }
 }
