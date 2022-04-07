@@ -4,3 +4,20 @@ winston is designed to be a simple and universal logging library with support fo
 
 https://github.com/winstonjs/winston
 
+# Logging Levels
+
+## (Related: RFC5424 the syslog levels)
+
+The below are the Winston logging levels.
+
+```
+{
+  error: 0,
+  warn: 1,
+  info: 2,
+  http: 3,
+  verbose: 4,
+  debug: 5,
+  silly: 6
+}
+```
