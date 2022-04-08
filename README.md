@@ -21,3 +21,5 @@ The below are the Winston logging levels.
   silly: 6
 }
 ```
+
+![Winston in Action](winston.png)
